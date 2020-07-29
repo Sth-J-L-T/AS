@@ -11,5 +11,6 @@ protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String a = "AS第一次上传";
+        String b = "在分支hot_fix上修改";
     }
 }
