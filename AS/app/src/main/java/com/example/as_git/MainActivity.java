@@ -12,5 +12,6 @@ protected void onCreate(Bundle savedInstanceState) {
         setContentView(R.layout.activity_main);
         String a = "master：不，你不想";
         String b = "在分支hot_fix上修改";
+        String c = "text";
     }
 }
